@@ -1102,7 +1102,7 @@ body::after {
     }
     
     .hud-nav {
-        display: none; /* Can build toggle hamburger menu in JS later if needed */
+        display: none;
     }
     
     .section {
